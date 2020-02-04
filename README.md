@@ -26,13 +26,13 @@ yarn build 或者 npm run build
 ```
 src
   /api                         axios封装
-  /common               通用组件文件夹
-    Header                头部组件
-    Nav                     导航栏组件（包含路由）
-    Side                    个人信息组件
-  /pages                    页面组件文件夹
-    Detail                  文章详情页面
-    List                      文章列表页（包含主要的路由页面）
+  /common                      通用组件文件夹
+    Header                     头部组件
+    Nav                        导航栏组件（包含路由）
+    Side                       个人信息组件
+  /pages                       页面组件文件夹
+    Detail                     文章详情页面
+    List                       文章列表页（包含主要的路由页面）
   /static                      静态文件
   /style                       初始化样式表
     common.less                
@@ -57,6 +57,6 @@ class='header-searchInput'
 ### [highlight.js地址](https://github.com/highlightjs/highlight.js)
 ### 7、引入 antd 为ui组件,具体其他配置参考文档
 ### [antd官方文档](https://ant.design/index-cn)
-### 项目地址：
+### 项目地址：https://github.com/Fs-carefree-fish/react-hooks-blog
 
 
